@@ -1,2 +1,2 @@
-# sonokai.nvim
+# sonokai
 Sonokai in lua
